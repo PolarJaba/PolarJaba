@@ -1,16 +1,42 @@
-### Hi there 👋
+<div id = "header" align = "center">
+  <h1>Hi there 👋, I'm Lisa</h1>
+  <h3>Junior Data Engineer and meteorologist</h3>
+</div> 
+<div id = "socials" align = "center">
+  <a href = "https://t.me/polar_jabka">
+    <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt = "Telegram"/>
+  </a>
+</div>
 
-<!--
-**PolarJaba/PolarJaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python, Scala, bash, Airflow, Hadoop, Linux
+- 🌏 I speak Russian and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+
+<div id = "icons" align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 50 width = 50/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height = 50 width = 50/>
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height = 50 width = 50/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height = 50 width = 50/>                            
+</div>
+
+### My statistic
+
+<div id = "stat" align = "center">
+  
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarJaba&theme=dark"/>
+  <p>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolarJaba&theme=dark"> 
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarJaba&theme=dark&utcOffset=8"/>
+  </p>
+</div>
+          
+
+
+
+
