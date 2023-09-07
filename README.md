@@ -1,5 +1,5 @@
 <div id = "header" align = "center">
-  <h1>Hi there 👋, I'm Lisa</h1>
+  <h1>Welcome 👋, I'm Lisa</h1>
   <h3>Junior Data Engineer and meteorologist</h3>
 </div> 
 <div id = "socials" align = "center">
@@ -8,38 +8,49 @@
   </a>
 </div>
 
-### About me
+### About me / Обо мне 
 
 - 🌱 I’m currently learning Python, Scala, bash, Airflow, Hadoop, Linux
 - 🌏 I speak Russian and English
 
-### Languages and tools
+- 🌱 В настоящий момент изучаю Scala, bash, Hadoop, Linux
+- 🌻 Улучшаю навыки Python, Docker, Airflow
 
-<div id = "icons" align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 50 width = 50/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height = 50 width = 50/>
-          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height = 50 width = 50/>
+### Languages and tools / Используемый стек
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height = 50 width = 50/>   
+<div id = "icons" align = "center">   
   
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apacheairflow.svg" height="50" width="50"/>                          
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+  
 </div>
 
 
-### My statistic
+### My statistic / Моя статистика
 
 <div id = "stat" align = "center">
-  
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarJaba&theme=dark"/>
   <p>
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PolarJaba&theme=dark"> 
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarJaba&theme=dark&utcOffset=8"/>
- 
   </p>
 </div>
-          
+
+### Education / Образование
+
+1T data courses: Data engineer
+
+RSHU: Aviation meteorologist 
+
+### Work experience / Опыт работы
+
+Разработка программ для автоматизированной обработки временных рядов гидрометеорологической информации (Python)
+
+
 
 
 
