@@ -8,16 +8,13 @@
   </a>
 </div>
 
-### About me / Обо мне 
-
-- 🌱 I’m currently learning Python, Scala, bash, Airflow, Hadoop, Linux
-- 🌏 I speak Russian and English
+### Обо мне 
 
 - 🌱 В настоящий момент изучаю Scala, bash, Hadoop, Linux
 - 🌻 Улучшаю навыки Python, Docker, Airflow
 
 
-### Languages and tools / Используемый стек
+### Используемый стек
 
 <div id = "icons" align = "center">   
   
@@ -31,7 +28,7 @@
 </div>
 
 
-### My statistic / Моя статистика
+### Моя статистика
 
 <div id = "stat" align = "center">
   <p>
@@ -40,13 +37,12 @@
   </p>
 </div>
 
-### Education / Образование
+### Образование
 
-1T data courses: Data engineer
+- 1T data courses: Data engineer
+- RSHU: Aviation meteorologist 
 
-RSHU: Aviation meteorologist 
-
-### Work experience / Опыт работы
+### Опыт работы
 
 Разработка программ для автоматизированной обработки временных рядов гидрометеорологической информации (Python)
 
