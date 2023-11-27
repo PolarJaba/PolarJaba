@@ -10,7 +10,7 @@
 
 ### Обо мне 
 
-- 🌱 В настоящий момент изучаю Clickhouse, Grafana, Kubernetes
+- 🌱 В настоящий момент изучаю Prometheus, Grafana, Kubernetes
 - 🌻 Улучшаю навыки Python, Docker, Airflow
 
 
